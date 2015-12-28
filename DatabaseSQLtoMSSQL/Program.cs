@@ -13,11 +13,11 @@ namespace DatabaseSQLtoMSSQL
     {
         static void Main(string[] args)
         {
-            string mssqlConnection = "Server =lugh4.it.nuigalway.ie; Database =msdb1740; Uid =msdb1740; Pwd =msdb1740DA";
+            string mssqlConnection = "Server ="server address"; Database ="database name"; Uid ="user name"; Pwd ="password"";
             SqlConnection mssqlConn = new SqlConnection(mssqlConnection);
             mssqlConn.Open();
 
-            string ConnectionString = "Server =danu6.it.nuigalway.ie; Database =mydb1233; Uid =mydb1233rd; Pwd =hi2xad";
+            string ConnectionString = "Server ="server address"; Database ="database name"; Uid ="user name"; Pwd ="password"";
             MySqlConnection conn = new MySqlConnection(ConnectionString);
             conn.Open();
             MySqlCommand myCommand = new MySqlCommand("select * from AllRelVar", conn);
