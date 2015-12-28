@@ -1,0 +1,12 @@
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\DatabaseSQLtoMSSQL.exe.config
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\DatabaseSQLtoMSSQL.exe
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\DatabaseSQLtoMSSQL.pdb
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\obj\Debug\DatabaseSQLtoMSSQL.csprojResolveAssemblyReference.cache
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\obj\Debug\DatabaseSQLtoMSSQL.exe
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\obj\Debug\DatabaseSQLtoMSSQL.pdb
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\EntityFramework.dll
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\EntityFramework.SqlServer.dll
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\MySql.Data.dll
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\MySql.Data.Entity.EF6.dll
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\EntityFramework.xml
+d:\docs\visual studio 2013\Projects\DatabaseSQLtoMSSQL\DatabaseSQLtoMSSQL\bin\Debug\EntityFramework.SqlServer.xml
